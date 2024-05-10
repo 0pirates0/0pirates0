@@ -1,6 +1,6 @@
 - 👋 Yo, I’m Captian Jack
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning GDScript
 - 📫 You can contact me via email - www.rajnishchay2003@gmail.com
 
 <!---
