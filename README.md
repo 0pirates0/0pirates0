@@ -1,7 +1,7 @@
 - 👋 Yo, I’m Nishchay Raj
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning GDScript
-- 📫 You can contact me via email - www.rajnishchay2004@gmail.com
+- 📫 You can contact me via email - www.rajnishchay2003@gmail.com
 
 <!---
 0pirates0/0pirates0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
